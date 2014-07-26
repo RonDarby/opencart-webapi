@@ -5,7 +5,7 @@ This is a small module that adds the ability to remotely work with the OpenCart 
 
  * Homepage: http://App-z.net
  * Android App Builder: http://app-z.net/app_builder 
- * Sources: https://github.com/ethernet1/opencart-webapi
+ * Original Sources: https://github.com/ethernet1/opencart-webapi
  * Ddocumentation in Russian: http://zenwalker.ru/lab/opencart-webapi/documentation.html
 
 Features:
