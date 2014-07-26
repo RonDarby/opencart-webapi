@@ -3,7 +3,8 @@ Opencart WEB API
 
 This is a small module that adds the ability to remotely work with the OpenCart 1.5.3+ via the REST API.
 
- * Homepage: http://zenwalker.ru/lab/opencart-webapi/
+ * Homepage: App-z.net
+ * Android App Builder: app-z.net/app_builder 
  * Sources: https://github.com/ethernet1/opencart-webapi
  * Ddocumentation in Russian: http://zenwalker.ru/lab/opencart-webapi/documentation.html
 
