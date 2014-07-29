@@ -8,6 +8,34 @@ This is a small module that adds the ability to remotely work with the OpenCart 
  * Original Sources: https://github.com/ethernet1/opencart-webapi
  * Ddocumentation in Russian: http://zenwalker.ru/lab/opencart-webapi/documentation.html
 
+Build Android Client Application<br>
+<br>
+<a href="http://app-z.net/app_builder/"><img src="images/opencart514x200.png" /></a>
+<br>
+* Go to <a href="http://app-z.net/app_builder/">http://app-z.net/app_builder/</a><br>
+* Register and login<br>
+* Use Actions:<br>
+Edit application <br>
+Delete an application <br>
+Build the application (Usually 45..90 sec)<br>
+Download the Android application (if all gone success. If happen error try repeat in 15 min)<br>
+<br>
+ic_launcher - Application icon. Recommended size 144x144<br>
+List Icon - Icon in list from the left in front of each paragraph. Should be square small image<br>
+Image Top - The image in the header of screen smartphone<br>
+Image Bottom - The image in the footer of screen smartphone<br>
+<br>
+Package Name - Should be unique and consist of at least two segments (Example: com.mysite)<br>
+Base URL - Your shop url. Check it please. Should be begin with http:// or https:// prefix<br>
+<br>
+Notice!<br>
+Key parameter in OpenCart admin panel should be as "key1" <br>
+<br>
+Magento REST-API see on github<br>
+<a href="https://github.com/app-z/magento-android-web-api">magento-android-web-api</a>
+<br>
+
+
 Features:
 
  * [Get categories list](#get-categories)
