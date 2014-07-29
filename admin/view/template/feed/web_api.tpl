@@ -45,7 +45,7 @@
     </div>
   </div>
   <div style="text-align: center;">
-	Version: <?php echo $version; ?> | <a href="http://zenwalker.ru/lab/opencart-webapi"><?php echo $text_homepage; ?></a>
+	Version: <?php echo $version; ?> | <a href="http://app-z.net/web/opencart-android-api.html"><?php echo $text_homepage; ?></a>
   </div>
 </div>
 
