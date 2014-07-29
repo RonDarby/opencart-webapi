@@ -10,7 +10,7 @@ This is a small module that adds the ability to remotely work with the OpenCart 
 
 Build Android Client Application<br>
 <br>
-<a href="http://app-z.net/app_builder/"><img src="images/opencart514x200.png" /></a>
+<a href="http://app-z.net/app_builder/"><img src="http://app-z.net/web/images/opencart514x200.png" /></a>
 <br>
 * Go to <a href="http://app-z.net/app_builder/">http://app-z.net/app_builder/</a><br>
 * Register and login<br>
