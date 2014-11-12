@@ -20,7 +20,7 @@ Build Android Client Application
 Edit application <br>
 Delete an application <br>
 Build the application (Usually 45..90 sec)<br>
-Download the Android application (if all gone success. If happen error try repeat in 15 min)<br>
+Download the Android application (if all done successful. If happen error try repeat in 15 min)<br>
 <br>
 ic_launcher - Application icon. Recommended size 144x144<br>
 List Icon - Icon in list from the left in front of each paragraph. Should be square small image<br>
