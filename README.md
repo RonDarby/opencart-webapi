@@ -5,6 +5,7 @@ This is a small module that adds the ability to remotely work with the OpenCart 
 
  * Homepage: http://App-z.net
  * Android App Builder: http://app-z.net/app_builder 
+ * Demo Android application available in Google Play <a href="https://play.google.com/store/apps/details?id=net.appz.builder">https://play.google.com/store/apps/details?id=net.appz.builder</a>
 
 
 Build Android Client Application
